@@ -1,0 +1,7 @@
+# this script is a demo script to show how
+# to plot a sine function
+
+x = 4
+y = 7*x
+
+print(y)
